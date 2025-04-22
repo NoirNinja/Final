@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ian\\Desktop\\John Lemon\u0027s Haunting Jaunt\\",
+  "WorkspaceRootPath": "C:\\Users\\Ian\\Desktop\\Final\\John Lemon\u0027s Haunting Jaunt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2421BFE2-A10F-CEB4-C5A1-F745B0F6DA56}|Assembly-CSharp.csproj|c:\\users\\ian\\desktop\\john lemon\u0027s haunting jaunt\\assets\\scripts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2421BFE2-A10F-CEB4-C5A1-F745B0F6DA56}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2421BFE2-A10F-CEB4-C5A1-F745B0F6DA56}|Assembly-CSharp.csproj|c:\\users\\ian\\desktop\\final\\john lemon\u0027s haunting jaunt\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2421BFE2-A10F-CEB4-C5A1-F745B0F6DA56}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2421BFE2-A10F-CEB4-C5A1-F745B0F6DA56}|Assembly-CSharp.csproj|c:\\users\\ian\\desktop\\john lemon\u0027s haunting jaunt\\assets\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2421BFE2-A10F-CEB4-C5A1-F745B0F6DA56}|Assembly-CSharp.csproj|C:\\Users\\Ian\\Desktop\\Final\\John Lemon\u0027s Haunting Jaunt\\assets\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2421BFE2-A10F-CEB4-C5A1-F745B0F6DA56}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameEnding.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Desktop\\John Lemon\u0027s Haunting Jaunt\\Assets\\Scripts\\GameEnding.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameEnding.cs",
-              "ToolTip": "C:\\Users\\Ian\\Desktop\\John Lemon\u0027s Haunting Jaunt\\Assets\\Scripts\\GameEnding.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameEnding.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Desktop\\Final\\John Lemon\u0027s Haunting Jaunt\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Ian\\Desktop\\Final\\John Lemon\u0027s Haunting Jaunt\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T15:40:42.157Z",
+              "WhenOpened": "2025-04-22T16:43:33.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Observer.cs",
-              "DocumentMoniker": "C:\\Users\\Ian\\Desktop\\John Lemon\u0027s Haunting Jaunt\\Assets\\Scripts\\Observer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Observer.cs",
-              "ToolTip": "C:\\Users\\Ian\\Desktop\\John Lemon\u0027s Haunting Jaunt\\Assets\\Scripts\\Observer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Observer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GameEnding.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Desktop\\Final\\John Lemon\u0027s Haunting Jaunt\\Assets\\Scripts\\GameEnding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameEnding.cs",
+              "ToolTip": "C:\\Users\\Ian\\Desktop\\Final\\John Lemon\u0027s Haunting Jaunt\\Assets\\Scripts\\GameEnding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameEnding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T15:37:05.558Z",
+              "WhenOpened": "2025-04-22T15:40:42.157Z",
               "EditorCaption": ""
             }
           ]

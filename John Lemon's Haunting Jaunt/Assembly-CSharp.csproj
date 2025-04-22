@@ -60,10 +60,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameEnding.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\UnityTechnologies\3DBeginnerTutorial\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\Scripts\LightFlicker.cs" />
     <Compile Include="Assets\Scripts\Observer.cs" />
+    <Compile Include="Assets\UnityTechnologies\3DBeginnerTutorial\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\WaypointPatrol.cs" />
+    <Compile Include="Assets\Scripts\LightFlicker.cs" />
+    <Compile Include="Assets\Scripts\Gargoyle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Shaders\ToonShader.shader" />
